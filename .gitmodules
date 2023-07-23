@@ -4,3 +4,6 @@
 [submodule "eth-paris-popov"]
 	path = eth-paris-popov
 	url = https://github.com/porco-rosso-j/eth-paris-popov
+[submodule "eth-global-paris-popov-ai-embeddings"]
+	path = eth-global-paris-popov-ai-embeddings
+	url = https://github.com/yumaueno/eth-global-paris-popov-ai-embeddings
