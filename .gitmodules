@@ -1,0 +1,6 @@
+[submodule "popov-front"]
+	path = popov-front
+	url = https://github.com/SidharthK2/popov-front
+[submodule "eth-paris-popov"]
+	path = eth-paris-popov
+	url = https://github.com/porco-rosso-j/eth-paris-popov
